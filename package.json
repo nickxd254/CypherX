@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "Nick Xd",
   "version": "1.9.1",
   "description": "The best Whatsapp bot",
   "main": "index.js",
@@ -9,7 +9,7 @@
    },
   "scripts": {
       "start": "node index.js",
-      "dev": "nodemon cypher.js"
+      "dev": "nodemon nick.js"
    },
   "author": "Tylor",
   "dependencies": {
